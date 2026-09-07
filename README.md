@@ -51,3 +51,6 @@ Além disso, será visto GitFlow e Visual Studio Code ao final.
 
 13\. git branch -D <nova\_branch>
 
+---------------------------
+
+
