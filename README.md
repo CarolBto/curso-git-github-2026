@@ -1,3 +1,4 @@
+descricao
 
 
 \
@@ -10,4 +11,7 @@ Um curso para incitantes aprenderem a trabalhar com versionamento de código e r
 
 
 Além disso, será visto GitFlow e Visual Studio Code ao final.
+
+
+main
 
