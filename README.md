@@ -1,6 +1,7 @@
 
 
-\# Curso Git \& GitHub 2026
+\
+# Curso Git \& GitHub 2026
 
 
 
